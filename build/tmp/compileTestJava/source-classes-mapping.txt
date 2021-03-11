@@ -1,0 +1,52 @@
+controls/Label.java
+ controls.Label
+pomPages/todoLy/LoginModal.java
+ pomPages.todoLy.LoginModal
+singletonSession/Session.java
+ singletonSession.Session
+factoryBrowser/IBrowser.java
+ factoryBrowser.IBrowser
+factoryBrowser/Edge.java
+ factoryBrowser.Edge
+controls/TextBox.java
+ controls.TextBox
+testClean/nameTest.java
+ testClean.nameTest
+basicSelenium/BasicTest.java
+ basicSelenium.BasicTest
+basicSelenium/BasicTodoLyTest.java
+ basicSelenium.BasicTodoLyTest
+factoryBrowser/FireFox.java
+ factoryBrowser.FireFox
+controls/CheckBox.java
+ controls.CheckBox
+testClean/TestBaseTodoLy.java
+ testClean.TestBaseTodoLy
+factoryBrowser/FactoryBrowser.java
+ factoryBrowser.FactoryBrowser
+pomPages/todoLy/MenuSection.java
+ pomPages.todoLy.MenuSection
+controls/Image.java
+ controls.Image
+pomPages/todoLy/CenterSection.java
+ pomPages.todoLy.CenterSection
+basicSelenium/BasicCreateProjectTest.java
+ basicSelenium.BasicCreateProjectTest
+controls/Button.java
+ controls.Button
+factoryBrowser/Chrome.java
+ factoryBrowser.Chrome
+factoryBrowser/BrowserStack.java
+ factoryBrowser.BrowserStack
+controls/Control.java
+ controls.Control
+pomPages/todoLy/RecicleBinModal.java
+ pomPages.todoLy.RecicleBinModal
+testClean/logoutTest.java
+ testClean.logoutTest
+pomPages/todoLy/MainPage.java
+ pomPages.todoLy.MainPage
+pomPages/todoLy/LeftSection.java
+ pomPages.todoLy.LeftSection
+testClean/RecycleBin.java
+ testClean.RecycleBin
