@@ -46,7 +46,7 @@ testClean/logoutTest.java
  testClean.logoutTest
 pomPages/todoLy/MainPage.java
  pomPages.todoLy.MainPage
-pomPages/todoLy/LeftSection.java
- pomPages.todoLy.LeftSection
 testClean/RecycleBin.java
  testClean.RecycleBin
+pomPages/todoLy/LeftSection.java
+ pomPages.todoLy.LeftSection

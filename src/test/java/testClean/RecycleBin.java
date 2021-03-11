@@ -13,7 +13,7 @@ public class RecycleBin extends  TestBaseTodoLy {
     MainPage mainPage= new MainPage();
     LeftSection leftSection= new LeftSection();
     CenterSection centerSection= new CenterSection();
-    String user="gl3@upbui.com";
+    String user="gl5@upbui.com";
     String pwd="1234";
     String fullName="george";
 
@@ -29,7 +29,7 @@ public class RecycleBin extends  TestBaseTodoLy {
         leftSection.loginButton.click();
         leftSection.recycle.click();
         leftSection.menu.click();
-        //leftSection.delete.click();
+        leftSection.delete.click();
         this.waitOnSecond(1);
         Assert.assertTrue("ERROR, no Borro el recycle bin",leftSection.verification.controlIsDisplayed());
 
